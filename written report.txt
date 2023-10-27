@@ -1,0 +1,54 @@
+PyCitySchools
+--------------
+
+Introduction: 
+-------------
+Analysis of School and Student data using the Pandas Library and the Jupyter Notebook.
+
+District Summary:
+-----------------
+1.Calculated the total no of unique schools,students and total budget .
+2.Calculated the math ,reading and overall percentage.
+
+School Summary:
+----------------
+1.Calculated the total students and total budget for each school.
+2.Calculated the Average math,Reading and overall passing percentage for each school.
+3.Mentioned the type of school it belongs to either District or Charter.
+
+Highest & Lowest performing summary:
+-------------------------------------
+1.Filtered the best performing top 5 schools on Math and Reading and overall passing percentage of both.
+2.Filtered the least performing bottom 5 schools on Math and Reading and overall passing percentage of both.
+
+Grade wise Scores:
+------------------
+1.Calculated the math scores grade wise 9th,10th,11th n 12th.
+2.Calculated the reading scores grade wise 9th,10th,11th n 12th.
+
+Scores by school spending:
+--------------------------
+1.Calculated how much budget is allocated to each student and total budget of the school.
+2.Calculated the range for per student budget.
+
+Scores by School size:
+-----------------------
+1.Calculated scores based on size of the school from small,medium and large.
+
+Scores by School Type:
+----------------------
+1.Calculated the math and reading score for District and Charter schools.
+
+Conclusion:
+------------
+1.Charter schools are performing better than District schools.
+2.Students are performing better in reading compared to maths.
+3.Large schools are performing low compared to small and medium ,even though budget spendings on each student are from $645-$680.
+4.Charter schools are maintaining students of count either small or medium and performing very well.
+
+
+
+
+
+
+
